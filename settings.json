@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "MeServerder.aternos.me",
     "port": 44793,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
