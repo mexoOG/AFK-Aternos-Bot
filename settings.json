@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BastiGHG",
+    "username": "GrieferSucht ADMIN",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "MeServerder.aternos.me",
+    "ip": "IronAttack.aternos.me",
     "port": 44793,
     "version": "",
     "try-creative": false
